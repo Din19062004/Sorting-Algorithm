@@ -1,6 +1,6 @@
 # A simple application to visualize 3 sorting algorithms: insertion sort, bubble sort and quick sort
 
-This is a project that simulates the operation of three basic sorting algorithms: insertion sort, bubble sort, and quicksort. The project is implemented using the Java programming language and the interface is built with JavaFX technology, supported by Scene Builder. It just simply works to demonstrate these three algorithm 😃
+This is a project that simulates the operation of three basic sorting algorithms: insertion sort, bubble sort, and quick sort. The project is implemented using the Java programming language and the interface is built with JavaFX technology, supported by Scene Builder. It just simply works to demonstrate these three algorithm 😃
 
 ## Clone the repository into your computer
 ```
