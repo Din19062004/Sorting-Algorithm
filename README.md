@@ -16,6 +16,6 @@ For more detail, you can open the folder named ```report``` to reader the proble
 
 ## Demo video
 ### Insertion sort
-![Insertion sort demo](https://imgur.com/SKX8CUZ.gif)
+[Insertion sort demo](https://imgur.com/SKX8CUZ.mp4)
 ### Bubble sort
 ### Quick sort
