@@ -2,7 +2,7 @@
 
 This is a project that simulates the operation of three basic sorting algorithms: insertion sort, bubble sort, and quick sort. The project is implemented using the Java programming language and the interface is built with JavaFX technology, supported by Scene Builder. It just simply works to demonstrate these three algorithm 😃
 
-## Clone the repository into your computer
+## Clone the repository
 ```
 git clone https://github.com/Din19062004/Sorting-Algorithm.git
 ```
