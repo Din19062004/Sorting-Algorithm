@@ -14,7 +14,7 @@ These are my reference points:
 - JavaFX version 21.0.5 (You can download it at the following link: https://gluonhq.com/products/javafx/. Note: Please choose the version compatible with your operating system).
 - Scene Builder version 23.0.1 (You can download it at the following link: https://gluonhq.com/products/scene-builder/. Note: Please choose the version compatible with your operating system).
 
-This depends on your choice. For me, these three options is suitable (they did't cause "Version incompatibility error in Java" when you executre the program)
+This depends on your choice. For me, these three options is suitable (they did't cause "Version incompatibility error in Java" when you execute the program). If you are using the Eclipse IDE, you can refer to the following link for detailed installation instructions.
 
 ## How does it work?
 You can open the folder named ```design``` to see the use case diagram and class diagram.
